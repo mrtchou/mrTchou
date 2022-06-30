@@ -1,16 +1,19 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**mrtchou/mrTchou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Saidkhaj.
+I am a French Web Developer
 
-Here are some ideas to get you started:
+🌱 I am available for a new apprenticeship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am graduating at @OpenClassrooms where I learned Front-end and back-end development.
+
+- 🌱 I’m currently learning React
+
+🔭 Beside that, I am working on my personal porfolio
+
+- 🤔 I’m looking for help with blockchain.
+
+Those things aren't unknown to me
+HTML CSS Sass Javascript PHP VueJS
+
+NPM Git
