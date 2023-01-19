@@ -1,6 +1,5 @@
  Hi there 👋
 
-I am Saidkhaj.
 I am a French Web Developer
 
 🌱 I am available for a new apprenticeship.
@@ -15,5 +14,3 @@ I am a French Web Developer
 
 Those things aren't unknown to me
 HTML CSS Sass Javascript PHP VueJS
-
-NPM Git
